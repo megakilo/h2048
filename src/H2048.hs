@@ -1,3 +1,5 @@
+module H2048 (main) where
+
 import Control.Monad (when)
 import Data.Function ((&))
 import Data.List (intercalate, transpose)
